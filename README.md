@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jdubkim
-- 👀 I’m interested in Machine Learning/Deep Learning and Reinforcement Learning.
-- 🌱 I’m currently studying Computing (AI & ML) at Imperial College London.
-- 📫 Please email jeewoo1998@gmail.com. 
+- 👋 Hi, I’m Jeewoo
+- 👀 I’m interested in Machine Learning in Trust and Safety and Generative AI.
+- 🌱 I’m currently working at TikTok.
+- 📫 Please email jeewookim17@gmail.com. 
 
 <!---
 jdubkim/jdubkim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
