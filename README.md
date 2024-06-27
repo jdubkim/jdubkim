@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeewoo
+- 👋 Hi, I’m Jeewoo.
 - 👀 I’m interested in Machine Learning in Trust and Safety and Generative AI.
 - 🌱 I’m currently working at TikTok.
 - 📫 Please email jeewookim17@gmail.com. 
